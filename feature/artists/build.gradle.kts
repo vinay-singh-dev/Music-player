@@ -74,3 +74,5 @@ dependencies {
     implementation(project(":core:models"))
     implementation(project(":core:common"))
 }
+
+// changing resources 
